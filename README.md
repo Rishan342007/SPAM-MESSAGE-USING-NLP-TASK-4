@@ -28,3 +28,4 @@ This task demonstrates strong foundational skills in **machine learning, data pr
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/2bc851df-681b-415f-9c3f-d38bbb777b29)
